@@ -13,7 +13,6 @@
         <file plugin="nnmenuparams">nnmenuparams.php</file>
         <filename>index.html</filename>
         <folder>params</folder>
-        <folder>library</folder>
         <folder>language</folder>
     </files>
     <config>
